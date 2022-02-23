@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\eojee\source\repos\SW-1\SW-1\소스.c(417,25): warning C4098: 'print_distance': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\eojee\source\repos\SW-1\SW-1\소스.c(465,25): warning C4098: 'print_distance': 'void' 함수에서 값을 반환하고 있습니다.
+  SW-1.vcxproj -> C:\Users\eojee\source\repos\SW-1\Debug\SW-1.exe
